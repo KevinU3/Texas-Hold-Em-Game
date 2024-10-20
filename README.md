@@ -2,6 +2,9 @@
 
 A game of Texas Hold'Em using Python
 
+## Demo
+![Demo](ASSETS/demo.gif)
+
 ## Installation
 
 1. Clone the repository to a destination folder:
